@@ -56,7 +56,7 @@ export const About: React.FC = () => {
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-xl overflow-hidden shadow-sm border border-stone-200 bg-stone-100 aspect-[4/3]">
               <img
-                src="/src/assets/images/about_glass_craft_1793431962373.jpg"
+                src="/makglass/src/assets/images/about_glass_craft_1793431962373.jpg"
                 alt="Master glassmaker inspecting a hand-blown glass vessel in Firozabad factory"
                 className="w-full h-full object-cover"
                 loading="lazy"
