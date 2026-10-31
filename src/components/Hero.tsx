@@ -17,7 +17,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenQuoteModal }) => {
       {/* Background Hero Image with Measured Gradient Scrim for 4.5:1 Contrast */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_glass_factory_1793431959968.jpg"
+          src="/makglass/src/assets/images/hero_glass_factory_1793431959968.jpg"
           alt="MAK Glass Overseas manufacturing furnace and automated lehr line in Firozabad"
           className="w-full h-full object-cover object-center scale-105 transform motion-safe:transition-transform motion-safe:duration-1000"
           loading="eager"
