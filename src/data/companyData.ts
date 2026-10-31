@@ -125,7 +125,7 @@ export const PRODUCTS_LIST: ProductItem[] = [
     category: 'Glass Bottles',
     shortDesc: 'Extra-flint high transparency glass bottle with a thick punt base, ideal for premium spirits and oils.',
     fullDesc: 'Crafted from high-purity extra-flint glass, this 750ml Nordic bottle features an ultra-thick crystal base and a smooth T-top cork neck. Designed for whiskey, rum, artisan gin, and premium gourmet condiments. Resists thermal and transport stresses with uniform wall distribution.',
-    image: '/src/assets/images/product_bottles_jars_1793431962805.jpg',
+    image: '/makglass/images/product_bottles_jars_1793431962805.jpg',
     capacity: '750 ml (also available in 500ml & 1000ml)',
     dimensions: 'Height: 228mm | Diameter: 86mm',
     neckFinish: 'GPI 30/315 cork finish or GPI screw cap',
